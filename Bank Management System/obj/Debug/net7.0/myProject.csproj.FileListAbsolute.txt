@@ -1,0 +1,45 @@
+C:\Users\JUNCTION\Desktop\myProject\bin\Debug\net7.0\myProject.exe
+C:\Users\JUNCTION\Desktop\myProject\bin\Debug\net7.0\myProject.deps.json
+C:\Users\JUNCTION\Desktop\myProject\bin\Debug\net7.0\myProject.runtimeconfig.json
+C:\Users\JUNCTION\Desktop\myProject\bin\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject\bin\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.csproj.AssemblyReference.cache
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.AssemblyInfoInputs.cache
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.AssemblyInfo.cs
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\refint\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\myProject.genruntimeconfig.cache
+C:\Users\JUNCTION\Desktop\myProject\obj\Debug\net7.0\ref\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject - Copy\bin\Debug\net7.0\myProject.exe
+C:\Users\JUNCTION\Desktop\myProject - Copy\bin\Debug\net7.0\myProject.deps.json
+C:\Users\JUNCTION\Desktop\myProject - Copy\bin\Debug\net7.0\myProject.runtimeconfig.json
+C:\Users\JUNCTION\Desktop\myProject - Copy\bin\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject - Copy\bin\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.csproj.AssemblyReference.cache
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.AssemblyInfoInputs.cache
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.AssemblyInfo.cs
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\refint\myProject.dll
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\myProject.genruntimeconfig.cache
+C:\Users\JUNCTION\Desktop\myProject - Copy\obj\Debug\net7.0\ref\myProject.dll
+C:\Users\JUNCTION\Desktop\Bank Management System\bin\Debug\net7.0\myProject.exe
+C:\Users\JUNCTION\Desktop\Bank Management System\bin\Debug\net7.0\myProject.deps.json
+C:\Users\JUNCTION\Desktop\Bank Management System\bin\Debug\net7.0\myProject.runtimeconfig.json
+C:\Users\JUNCTION\Desktop\Bank Management System\bin\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\Bank Management System\bin\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.csproj.AssemblyReference.cache
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.AssemblyInfoInputs.cache
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.AssemblyInfo.cs
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.dll
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\refint\myProject.dll
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.pdb
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\myProject.genruntimeconfig.cache
+C:\Users\JUNCTION\Desktop\Bank Management System\obj\Debug\net7.0\ref\myProject.dll
